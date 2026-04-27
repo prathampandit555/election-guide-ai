@@ -39,9 +39,9 @@ This project provides an AI assistant that:
 - Real-life election scenarios  
 - Decision-based learning  
 
-### ⚠️ Smart Decision Feedback (NEW 🔥)
+### ⚠️ Smart Decision Feedback (Core Innovation 🔥)
 - Detects wrong user choices  
-- Explains mistakes  
+- Explains mistakes clearly  
 - Suggests correct actions  
 - Shows real-world consequences  
 
@@ -67,14 +67,46 @@ This project provides an AI assistant that:
 
 ## 🧠 Technologies Used
 - Prompt Engineering  
-- Google Antigravity  
+- Google Antigravity (AI Agent Framework)  
 - GitHub  
+
+---
+
+## ☁️ Google Services Integration
+This project uses **Google Antigravity** to design and manage the AI assistant.  
+It enables dynamic interaction, structured prompting, and intelligent response handling.
+
+---
+
+## 🔒 Security
+The assistant avoids providing misleading or harmful information and focuses only on verified election-related guidance.
+
+---
+
+## ⚡ Efficiency
+The solution is lightweight, fast, and optimized for minimal resource usage, ensuring smooth performance.
+
+---
+
+## 🧪 Testing
+The assistant was tested using multiple real-world scenarios:
+- First-time voter guidance  
+- Simulation with incorrect user choices  
+- Quiz interaction  
+- Edge cases like missing voter ID  
+
+All flows were validated for correct responses and logical behavior.
+
+---
+
+## ♿ Accessibility
+Designed with simple language and step-by-step interaction to ensure usability for all users, including first-time voters.
 
 ---
 
 ## 📍 Assumptions
 - Users have basic awareness of elections  
-- Focus is on simplicity and engagement  
+- Focus is on clarity, simplicity, and engagement  
 
 ---
 
@@ -83,7 +115,7 @@ This project provides an AI assistant that:
 - Uses simulation-based learning  
 - Provides personalized guidance  
 - Engages users through quizzes and choices  
-- Provides real-time feedback on user decisions (like a mentor)  
+- Provides real-time feedback like a mentor  
 
 ---
 
